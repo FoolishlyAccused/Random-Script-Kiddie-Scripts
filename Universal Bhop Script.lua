@@ -1,3 +1,4 @@
+--its just a bunnyhop script, just like in cs:go
 
 local UIS = game:GetService("UserInputService")
 
