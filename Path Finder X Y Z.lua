@@ -1,3 +1,5 @@
+--Makes your character walk to a destination (X, Y, Z) using AI pathfinder, great for autofarming
+
 local PathfindingService = game:GetService("PathfindingService")
 local Players = game:GetService("Players")
  
@@ -7,7 +9,7 @@ local player = Players.LocalPlayer
 local character = player.Character
 local humanoid = character:WaitForChild("Humanoid")
  
-local TEST_DESTINATION = Vector3.new(100, 0, 100) ------------COORDS HERE
+local TEST_DESTINATION = Vector3.new(0, 0, 0) ------------------------------------------------------------------------COORDS HERE
  
 local waypoints
 local nextWaypointIndex
