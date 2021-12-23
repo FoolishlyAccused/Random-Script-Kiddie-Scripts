@@ -1,3 +1,7 @@
+--As the name implies, just a simple corner box esp for basically all games
+
+
+
 -- Settings
 local Settings = {
     Box_Color = Color3.fromRGB(255, 0, 0),
