@@ -1,3 +1,5 @@
+--i tihnk you just execute and click on a npc or i think it was left control and click to control it, a npc that is frozen or cant move wont work
+
 spawn(function()
   while wait() do
     game.Players.LocalPlayer.MaximumSimulationRadius = math.huge;
