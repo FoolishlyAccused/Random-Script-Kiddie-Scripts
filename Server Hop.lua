@@ -1,3 +1,5 @@
+--a serverhop script...................
+
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""
